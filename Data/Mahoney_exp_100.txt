@@ -1,0 +1,2 @@
+ID	gender	order	experiment	difficulty	falseAlarm	trial	condition	trial.start.time	signal	humanResp	humanRT	autoResp	autoRT	ACC	stimlength	RTor	RTand
+100	M	1	0	easy	low	1	REJECT	120.791712999	1	0	2.30266499519	1	0.240307437583	1	2.94703511423	0.240307437583	2.30266499519
